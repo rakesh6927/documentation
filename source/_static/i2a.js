@@ -35,3 +35,5 @@ function pixel()
 	io.src = urlA;
 }
 pixel();
+
+test
